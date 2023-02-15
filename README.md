@@ -87,7 +87,6 @@ Start off by trying this without any hints. If you find yourself stuck, check ou
 
 ## Stretch Goals
 
-* Re-organize your code to make use of functions
 * Allow the user to both complete and uncomplete to-do items
 * Allow the user to fully delete a to-do item from the list
 * Allow the user to edit the text of an existing to-do item
